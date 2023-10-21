@@ -1,5 +1,6 @@
 # What is this?
-A plugin for the Unreal Engine that allows Gameplay Effects of the Gameplay Ability System to cancel Gameplay Abilities.
+A plugin for the Unreal Engine that allows Gameplay Effects of the Gameplay Ability System (GAS) to cancel Gameplay Abilities.
+Important note: I have no idea how replication in GAS works and didn't test it with this new feature, so be warned that this _might_ break it :)
 
 # Requirements
 You need Unreal Engine 5.3 as a minimum, since this plugins adds a new Gameplay Effect Component, a concept that didn't exist prior to this version.
