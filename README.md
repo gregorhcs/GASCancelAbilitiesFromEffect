@@ -2,7 +2,7 @@
 A plugin for the Unreal Engine that allows Gameplay Effects of the Gameplay Ability System to cancel Gameplay Abilities.
 
 # Requirements
-You need Unreal Engine 5.3 as a minimum, since this plugins adds a new Gameplay Effect Component, a concept that didn't before this version.
+You need Unreal Engine 5.3 as a minimum, since this plugins adds a new Gameplay Effect Component, a concept that didn't exist prior to this version.
 
 # How to use
 Create a new Gameplay Effect, add the "CancelAbilityTagsEffectComponent". Configure abilities with what tags and without what tags should be cancelled.
